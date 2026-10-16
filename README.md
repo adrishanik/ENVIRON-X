@@ -8,6 +8,7 @@ It is exist because it alert while temperature in maximum like 60 degree.
 # PCB diagram
 
 <img width="796" height="451" alt="quickshot_261016_094837" src="https://github.com/user-attachments/assets/cfe758e0-017e-48a9-be6a-b5c75d7805bc" />
+
 ## PCB diagram link 
 
 (https://easyeda.com/editor#id=2bef668d4ea2474785b5ae8aef14d93d|c92e15c1509249b3923c2d8c6b4a73b5|5b7061f5b4d14c45bfa756f86922dfe1)
