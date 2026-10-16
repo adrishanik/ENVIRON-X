@@ -31,5 +31,5 @@ It is exist because it alert while temperature in maximum like 60 degree.
 <img width="794" height="312" alt="quickshot_261016_095716" src="https://github.com/user-attachments/assets/d2eafa18-b915-476b-8ab6-12b29adf462c" />
 
 # MIT License :-
-
+https://github.com/adrishanik/ENVIRON-X/blob/main/MIT%20LICENSE
 
