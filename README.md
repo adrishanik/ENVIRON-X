@@ -1,4 +1,7 @@
 # ENVIRON-X
+
+<img width="853" height="454" alt="quickshot_261017_151749" src="https://github.com/user-attachments/assets/a6e6cd37-f888-448d-8e7c-dd4155591054" />
+
 ## About My Project 
 This is an iot Environmental machine it help people by detecting temperature and humidity at show on the display.
 ## Why it is exist 
