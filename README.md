@@ -2,8 +2,14 @@
 
 <img width="853" height="454" alt="quickshot_261017_151749" src="https://github.com/user-attachments/assets/a6e6cd37-f888-448d-8e7c-dd4155591054" />
 
-## About My Project 
+## About My Project
+
 This is an iot Environmental machine it help people by detecting temperature and humidity at show on the display.
+
+## How it work 
+
+while any type environment activity that catch the enviro sensor and send to esps 32 then esp 32 send the information to display then show the display this the full process of our project .
+
 ## Why it is exist 
 
 It is exist because it alert while temperature in maximum like 60 degree.
