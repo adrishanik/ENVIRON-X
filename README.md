@@ -8,7 +8,11 @@ This is an iot Environmental machine it help people by detecting temperature and
 
 ## How it work 
 
-while any type environment activity that catch the enviro sensor and send to esps 32 then esp 32 send the information to display then show the display this the full process of our project .
+while any type environment activity then catch by BME280 sensor and send to esps 32 then esp 32 send the signal to display then show the display this is the full process how it work.
+
+## what do Firmware code
+
+The Firmware code is contain the c++ language for esp 32 and this code help to work our project and it display the temperature and humidity
 
 ## Why it is exist 
 
